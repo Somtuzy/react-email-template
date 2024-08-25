@@ -4,7 +4,7 @@
       "module": "commonjs",           // Module system to use
       "moduleResolution": "Node",
       "outDir": "./dist",             // Output directory for compiled files
-      "rootDir": "./",             // Root directory of source files
+      "rootDir": "./src",             // Root directory of source files
       "allowJs": true,                // Allow JavaScript files
       "esModuleInterop": true,
       "checkJs": true,                // Enable type checking on JavaScript files
